@@ -34,7 +34,3 @@ I also create **3D characters and assets**, using tools such as:
 I'm constantly experimenting with new projects and learning new technologies along the way.
 
 Most of my repositories are a mix of **web development, game development, 3D art, and things I'm building just to learn**.
-
----
-
-Check out my repositories to see what I'm currently working on!
