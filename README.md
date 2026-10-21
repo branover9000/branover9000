@@ -25,8 +25,8 @@ I also create **3D characters and assets**, using tools such as:
 
 - Blender
 - ZBrush
-- Unreal Engine
-- Character Creator
+- Unity
+- Reallusion
 - Marvelous Designer
 
 ## 🚀 What I'm Working On
